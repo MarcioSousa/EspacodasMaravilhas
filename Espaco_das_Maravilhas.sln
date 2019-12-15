@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loja_de_Roupas", "Espaco_das_Maravilhas\Loja_de_Roupas.vbproj", "{46C4311B-C525-4772-8968-F6F30C2D1E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C4311B-C525-4772-8968-F6F30C2D1E24}.Debug|x86.ActiveCfg = Debug|x86
+		{46C4311B-C525-4772-8968-F6F30C2D1E24}.Debug|x86.Build.0 = Debug|x86
+		{46C4311B-C525-4772-8968-F6F30C2D1E24}.Release|x86.ActiveCfg = Release|x86
+		{46C4311B-C525-4772-8968-F6F30C2D1E24}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VSStyle = B-ranged (trapter2).vssf
+		VSTargetControls = FormsAndControls
+		VSToolStripStyle = Mixed
+		VSTextShadow = True
+		VSSkinFlatStyles = True
+		VSSkinToggleButtons = True
+		VSUseSystemFonts = False
+		VSCustomBkgrdPaint = True
+	EndGlobalSection
+EndGlobal
